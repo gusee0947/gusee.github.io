@@ -27,7 +27,7 @@ navigation: # Navigation links
 tagline: >
   처음 만들어보는 밍듀의 개인 블로그 ㅇㅅ<
 
-hero_img: posts/gusee0947_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/main_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: 9jay@kakao.com # email for form submission
 
